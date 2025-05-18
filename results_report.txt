@@ -1,0 +1,11 @@
+
+# Speaker Verification Performance Report
+- Date: 2025-06-11 22:57:32
+- Training Dataset: Custom Split
+- Method: ES-GMM
+
+## Performance on VoxCeleb1 Test Sets
+
+| Method          | Custom-Test EER(%) | Custom-Test minDCF |
+| --------------- | --------------- | --------------- |
+| ES-GMM          | 43.703          | 0.0100          |
